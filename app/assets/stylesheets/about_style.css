@@ -1,0 +1,26 @@
+@import url('https://use.typekit.net/xek0ctv.css');
+
+.about-page p {
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0.01px;
+    line-height: 1.5;
+    font-size: 14px;
+    color: black;
+
+    margin-left: 20px;
+}
+
+.about-page .container {
+    display: inline-grid;
+    max-width: 790px;
+    margin: 0px;
+    position: relative;
+}
+
+.about-page span {
+    font-family: 'Courier New', monospace;
+    word-spacing: -4px;
+    letter-spacing: -0.5px;
+}

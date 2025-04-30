@@ -1,0 +1,146 @@
+@import url('https://use.typekit.net/xek0ctv.css');
+
+.portfolio-page p {
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0.01px;
+    line-height: 1.5;
+    font-size: 14px;
+    color: black;
+
+    margin-left: 20px;
+}
+
+.portfolio-page .container {
+    display: inline-grid;
+    max-width: 790px;
+    margin: 0px;
+    position: relative;
+}
+
+.portfolio-page .portfolio_pic_1 {
+    position: relative;
+    grid-row: 1;
+    grid-column: 1; 
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_2 {
+    position: relative;
+    grid-row: 1; 
+    grid-column: 2;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_3 {
+    position: relative;
+    grid-row: 2; 
+    grid-column: 1;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_4 {
+    position: relative;
+    grid-row: 2; 
+    grid-column: 2;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_5 {
+    position: relative;
+    grid-row: 3; 
+    grid-column: 1;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_6 {
+    position: relative;
+    grid-row: 3; 
+    grid-column: 2;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_7 {
+    position: relative;
+    grid-row: 4; 
+    grid-column: 1;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_8 {
+    position: relative;
+    grid-row: 4; 
+    grid-column: 2;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_9 {
+    position: relative;
+    grid-row: 5; 
+    grid-column: 1;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_10 {
+    position: relative;
+    grid-row: 5; 
+    grid-column: 2;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_11 {
+    position: relative;
+    grid-row: 6; 
+    grid-column: 1;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_12 {
+    position: relative;
+    grid-row: 6; 
+    grid-column: 2;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_13 {
+    position: relative;
+    grid-row: 7; 
+    grid-column: 1;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+.portfolio-page .portfolio_pic_14 {
+    position: relative;
+    grid-row: 7; 
+    grid-column: 2;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}

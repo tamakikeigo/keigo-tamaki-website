@@ -1,0 +1,31 @@
+@import url('https://use.typekit.net/xek0ctv.css');
+
+.container-fluid {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 34px;
+}
+
+.container-fluid .navbar-title {
+    color: #111111;
+    text-decoration: none;
+}
+
+.container-fluid .navbar-nav li a {
+    color: #111111;
+}
+
+
+/*.navbar-nav .nav-item {
+    padding: 0 5px;
+}
+
+.align-right{
+    margin-left: auto;
+}*/
